@@ -1,6 +1,13 @@
-h1{
-    color: aqua;
+h1 {
+  /* Đổi màu chữ của h1 */
+  color: aqua;
+  /* Kiểu chữ của h1 */
+  font-style: italic;
 }
-p{
-    color: blueviolet;
+p {
+  /* Đổi màu chữ của paragraph */
+  color: blueviolet;
+}
+h2 {
+  opacity: 0.3;
 }
